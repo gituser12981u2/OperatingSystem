@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "stdint.h": "c",
+        "vga_text.h": "c",
+        "io.h": "c",
+        "string_memory.h": "c"
+    }
+}
